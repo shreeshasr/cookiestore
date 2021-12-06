@@ -1,0 +1,24 @@
+.brandName{
+    font-size: 2.5rem;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem;
+}
+.viewCartItems{
+    border: 0.1rem solid black;
+    font-size: 1.3rem;
+    background: none;
+    width: 10rem;
+    height: 3rem;
+    color: black;
+    background: white;
+    border-radius: 1rem;
+}
+.viewCartItems:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+}

@@ -1,0 +1,4 @@
+.cookieCards{
+    display: flex;
+    flex-wrap: wrap;
+}

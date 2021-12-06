@@ -1,0 +1,46 @@
+.cookieCard{
+    object-fit: contain;
+    width: 22rem;
+    height: 38rem;
+    text-align: center;
+    margin: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+}
+.cookieCard img{
+    width: 22rem;
+    height: 18rem;
+}
+.topInfo{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding: 2rem 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+    height: 3rem;
+}
+.cookieName{
+    max-width: 14rem;
+    letter-spacing: 0.1rem;
+}
+.cookieDescription{
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    height: 5rem;
+}
+.cookieInfos{
+    padding: 0 1rem;
+}
+.cookiePrice{
+    color: royalblue;
+}
+.quantity{
+    padding: 1rem 0;
+    color:seagreen
+}
+.total{
+    font-weight: 600;
+    color: darkblue;
+}

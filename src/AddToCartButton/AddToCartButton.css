@@ -1,0 +1,20 @@
+.addToCartButton button{
+    width: 18rem;
+    height: 3rem;
+    background: wheat;
+    color: black;
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
+.addToCartButton button:hover{
+    cursor: pointer;
+    background: lightblue;
+    border: 0.1rem solid green;
+}
+.added{
+    background: green !important;
+    border-radius: 1rem;
+    border: 0.01rem solid black !important;
+    color: white !important;
+}
